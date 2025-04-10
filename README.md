@@ -13,6 +13,7 @@ Tetris clone built on Arduino Uno using an 8x8 LED matrix and joystick module.
 
 
 ## Circuit Diagram
+![Tetris Circuit](tetris_circuit_diagram.jpg)
 
 
 ## Demo Video
